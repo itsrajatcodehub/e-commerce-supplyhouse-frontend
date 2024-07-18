@@ -1,0 +1,13 @@
+.radio-custom {
+  accent-color: black;
+}
+
+.card {
+  border: 2px solid rgb(236, 234, 234);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+dl {
+  padding: 40px 15px;
+}
